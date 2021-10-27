@@ -1,0 +1,9 @@
+{
+  "loginpage": {
+    "sign_in": "Sign in",
+    "username": "input[formcontrolname=\"email\"]",
+    "password": "input[formcontrolname=\"password\"]",
+    "submit": "button[class=\"btn btn-lg btn-primary pull-xs-right\"]",
+    "prompt": "email or password is invalid"
+  }
+}

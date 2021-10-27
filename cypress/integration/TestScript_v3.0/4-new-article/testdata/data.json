@@ -1,0 +1,15 @@
+{
+  "info1": {
+    "title": "Self-Learing",
+    "about": "自学总结",
+    "body": "学习了Cypress框架的使用，对其原理...",
+    "tag": "Myself"
+  },
+
+  "info2": {
+    "title": "Self-introduction",
+    "about": "自我介绍",
+    "body": "大家好，我叫XXX，望在以后的日子里请大家多多指教",
+    "tag": "Myself"
+  }
+}
